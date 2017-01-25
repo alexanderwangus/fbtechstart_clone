@@ -10,6 +10,7 @@
 <th>Personal Traits</th>
 <th>Desired Growth</th>
 <th>Weaknesses</th>
+<th>Hat Color</th>
 </tr>
 </thead><tbody>
 <tr>
@@ -18,6 +19,7 @@
 <td>Very sensitive to work environment</td>
 <td>Programming</td>
 <td>Programming</td>
+<td>Blue</td>
 </tr>
 <tr>
 <td>Jorge Cueto</td>
@@ -25,13 +27,15 @@
 <td>Disciplined</td>
 <td>LaTeX, Planning Skills</td>
 <td>Painting, Programming, Interpersonal communication</td>
+<td>Blue</td>
 </tr>
 <tr>
 <td>Alexander Wang</td>
-<td>AI, Machine Learning, Programming, GUI skills</td>
-<td>Loves learning new programming languages</td>
-<td>MatLAB</td>
-<td>bad memory</td>
+<td>Theory, HCI, AI, Design, Management</td>
+<td>Listener</td>
+<td>Hacking</td>
+<td>Indecisive</td>
+<td>Blue</td>
 </tr>
 <tr>
 <td>Serena Wong</td>
@@ -39,6 +43,7 @@
 <td>Strong opinions, very abstract thinker, Big PIcture guy</td>
 <td>Rapid prototyping, project management</td>
 <td>Sensitive to environments</td>
+<td>Blue</td>
 </tr>
 <tr>
 <td>Jessica Zhang</td>
@@ -46,6 +51,7 @@
 <td>Mediator, Delegator, Fun, Divergent Thinker</td>
 <td>Management</td>
 <td>Ideas require peer approval, short term memory</td>
+<td>Blue</td>
 </tr>
 </tbody></table>
 
