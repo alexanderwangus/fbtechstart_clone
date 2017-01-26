@@ -8,7 +8,7 @@ We aim to find out how else can we best leverage FB to scalably pursue Techstart
 
 
 <h2> Members </h2>
-<img src="alex_portrait.jpg" height="200"> <br>
+<img src="charles_portrait.jpg" height="200"> <br>
 Charles Akin-David <br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Jorge Cueto <br>
