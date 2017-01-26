@@ -6,10 +6,10 @@
 
 Charles Akin-David
 Jorge Cueto
-<img src="alex_portrait.jpg" style="height:500px;">
+<img src="alex_portrait.jpg" height="200">
 Alexander Wang
 Serena Wong
-<img src="jess_portrait.png" style="height:500px;">
+<img src="jess_portrait.png" height="200">
 Jessica Zhang
 
 <table><thead>
