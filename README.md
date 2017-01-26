@@ -4,7 +4,7 @@
 <h2> Members </h2>
 <img src="charles_portrait.jpg" height="200"> <br>
 Charles Akin-David <br>
-<img src="alex_portrait.jpg" height="200"> <br>
+<img src="jorge_portrait.jpg" height="200"> <br>
 Jorge Cueto <br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Alexander Wang <br>
