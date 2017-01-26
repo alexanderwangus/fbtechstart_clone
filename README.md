@@ -26,9 +26,9 @@ Jessica Zhang
 <tr>
 <td>Charles Akin-David</td>
 <td>Data Engineering, Machine Learning, Programming</td>
-<td>Social, Presenter, Open-minded, Teacher</td>
+<td>Social, Presenter, Open-minded, Back-Loader</td>
 <td>Project Management, Prototyping</td>
-<td>Timing, Back-Loader</td>
+<td>Timing</td>
 <td>Blue</td>
 </tr>
 <tr>
