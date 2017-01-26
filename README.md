@@ -1,6 +1,6 @@
 <h1> Team Name (with team logo) </h1>
 <h2> Project Synopsis </h2>
-
+Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
 <img src="charles_portrait.jpg" height="200"> <br>
 Charles Akin-David <br><br>
