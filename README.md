@@ -1,14 +1,8 @@
 <h1> Team Name (with team logo) </h1>
 <h2> Project Synopsis </h2>
-Facebook believes that equitable and quality education is one of the most critical things for society to “get right.” One initiative in this arena is FB Techstart the mission of which is to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students. <br>
-<br>
-Currently, FB Techstart provides VR classroom kits, curriculum support, and peer role model connections to public schools. <br>
-<br>
-We aim to find out how else can we best leverage FB to scalably pursue Techstart's mission. Might we be able to use FB's many tools (ie. Instagram, Whatsapp, Messenger) to support the teachers and kids Techstart is trying to reach? The ultimate goal is to create an implementation that can scale to millions of kids in need.
-
 
 <h2> Members </h2>
-<img src="charles_portrait.jpg" height="200"> <br>
+<img src="alex_portrait.jpg" height="200"> <br>
 Charles Akin-David <br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Jorge Cueto <br>
@@ -39,11 +33,11 @@ Jessica Zhang
 </tr>
 <tr>
 <td>Jorge Cueto</td>
-<td>Aesthetics and layout, building prototypes, AutoCAD</td>
-<td>Disciplined</td>
-<td>LaTeX, Planning Skills</td>
-<td>Painting, Programming, Interpersonal communication</td>
-<td>Blue</td>
+<td>Product Management, UX, HCI, Networking</td>
+<td>Hardworking, Compassionate, Creative </td>
+<td>Prototyping, Programming, Time Management</td>
+<td></td>
+<td>Green</td>
 </tr>
 <tr>
 <td>Alexander Wang</td>
@@ -73,4 +67,4 @@ Jessica Zhang
 
 <h2> Link for Communication </h2>
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
-To get in touch with us, please email our mailing list: fbtechstart@googlegroups.com
+To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">.
