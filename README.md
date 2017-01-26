@@ -47,11 +47,11 @@
 </tr>
 <tr>
 <td>Jessica Zhang</td>
-<td>Dynamics, Machining, Sales voice</td>
-<td>Mediator, Delegator, Fun, Divergent Thinker</td>
-<td>Management</td>
-<td>Ideas require peer approval, short term memory</td>
-<td>Blue</td>
+<td>HCI, Interface Design, Programming</td>
+<td>Agreeable, Hardworking</td>
+<td>Project Management, Creativity</td>
+<td>Often ambivalent, long transition time between tasks</td>
+<td>White</td>
 </tr>
 </tbody></table>
 
