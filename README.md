@@ -2,6 +2,17 @@
 <h2> Project Synopsis </h2>
 Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
+<img src="charles_portrait.jpg" height="200"> <br>
+Charles Akin-David <br><br>
+<img src="jorge_portrait.jpg" height="200"> <br>
+Jorge Cueto <br><br>
+<img src="alex_portrait.jpg" height="200"> <br>
+Alexander Wang <br><br>
+<img src="alex_portrait.jpg" height="200"> <br>
+Serena Wong <br><br>
+<img src="jess_portrait.png" height="200"> <br>
+Jessica Zhang
+<br>
 
 <table><thead>
 <tr>
@@ -15,19 +26,19 @@ Our project aims to leverage computer science to spark the imagination, instill 
 </thead><tbody>
 <tr>
 <td>Charles Akin-David</td>
-<td>User testing, CAD, Statistical Data</td>
-<td>Very sensitive to work environment</td>
-<td>Programming</td>
-<td>Programming</td>
+<td>Data Engineering, Machine Learning, Programming</td>
+<td>Social, Presenter, Open-minded, Back-Loader</td>
+<td>Project Management, Prototyping</td>
+<td>Timing</td>
 <td>Blue</td>
 </tr>
 <tr>
 <td>Jorge Cueto</td>
-<td>Aesthetics and layout, building prototypes, AutoCAD</td>
-<td>Disciplined</td>
-<td>LaTeX, Planning Skills</td>
-<td>Painting, Programming, Interpersonal communication</td>
-<td>Blue</td>
+<td>Product Management, UI/UX, HCI, Networking</td>
+<td>Hardworking, Compassionate, Creative </td>
+<td>Prototyping, Programming, Time Management</td>
+<td>Context Switching, Data Engineering, AI, NLP</td>
+<td>Green</td>
 </tr>
 <tr>
 <td>Alexander Wang</td>
@@ -39,10 +50,10 @@ Our project aims to leverage computer science to spark the imagination, instill 
 </tr>
 <tr>
 <td>Serena Wong</td>
-<td>Machine Learning, Audio recording, Signal processing, Statistical analysis</td>
-<td>Strong opinions, very abstract thinker, Big PIcture guy</td>
-<td>Rapid prototyping, project management</td>
-<td>Sensitive to environments</td>
+<td>HCI, project management, user testing</td>
+<td>Agreeable, focused</td>
+<td>Creativity, programming</td>
+<td>Voicing opinion</td>
 <td>Blue</td>
 </tr>
 <tr>
@@ -56,3 +67,5 @@ Our project aims to leverage computer science to spark the imagination, instill 
 </tbody></table>
 
 <h2> Link for Communication </h2>
+We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
+To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
