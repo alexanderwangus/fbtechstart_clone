@@ -73,9 +73,4 @@ Jessica Zhang
 
 <h2> Link for Communication </h2>
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
-To get in touch with us, please email any one of us. Our emails (@stanford.edu) are listed below: <br>
-aakindav <br>
-jcueto <br>
-aswang <br>
-serenaw <br>
-jzhang4 <br>
+To get in touch with us, please email our mailing list: fbtechstart@googlegroups.com
