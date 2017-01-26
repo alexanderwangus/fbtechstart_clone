@@ -2,14 +2,15 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
-<!--Probably add the photos here...-->
-
-Charles Akin-David
-Jorge Cueto
-<img src="alex_portrait.jpg" height="200">
-Alexander Wang
-Serena Wong
-<img src="jess_portrait.png" height="200">
+<img src="alex_portrait.jpg" height="200"> <br>
+Charles Akin-David <br>
+<img src="alex_portrait.jpg" height="200"> <br>
+Jorge Cueto <br>
+<img src="alex_portrait.jpg" height="200"> <br>
+Alexander Wang <br>
+<img src="alex_portrait.jpg" height="200"> <br>
+Serena Wong <br>
+<img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
 
 <table><thead>
