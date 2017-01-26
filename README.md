@@ -2,7 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
-<!--img src="charles_portrait.jpg" height="200"> <br>
+<img src="charles_portrait.jpg" height="200"> <br>
 Charles Akin-David <br><br>
 <img src="jorge_portrait.jpg" height="200"> <br>
 Jorge Cueto <br><br>
@@ -12,12 +12,7 @@ Alexander Wang <br><br>
 Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
-<br-->
-<img alt="Charles Akin-David" src="charles_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="jorge_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="alex_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="alex_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="jess_portrait.png" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
+<br>
 
 <table><thead>
 <tr>
