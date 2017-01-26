@@ -2,7 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
-<img src="charles_portrait.jpg" height="200"> <br>
+<!--img src="charles_portrait.jpg" height="200"> <br>
 Charles Akin-David <br><br>
 <img src="jorge_portrait.jpg" height="200"> <br>
 Jorge Cueto <br><br>
@@ -12,7 +12,18 @@ Alexander Wang <br><br>
 Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
-<br>
+<br-->
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="charles_portrait.jpg" style="width: 100%">Charles Akin-David</p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="jorge_portrait.jpg" style="width: 100%">Jorge Cueto</p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="alex_portrait.jpg" style="width: 100%">Alexander Wang</p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="alex_portrait.jpg" style="width: 100%">Serena Wong</p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="jess_portrait.jpg" style="width: 100%">Jessica Zhang</p>
+
 <table><thead>
 <tr>
 <th>Member</th>
