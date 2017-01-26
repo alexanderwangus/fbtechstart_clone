@@ -39,10 +39,10 @@
 </tr>
 <tr>
 <td>Serena Wong</td>
-<td>Machine Learning, Audio recording, Signal processing, Statistical analysis</td>
-<td>Strong opinions, very abstract thinker, Big PIcture guy</td>
-<td>Rapid prototyping, project management</td>
-<td>Sensitive to environments</td>
+<td>HCI, project management, user testing</td>
+<td>Agreeable, focused</td>
+<td>Creativity, programming</td>
+<td>Voicing opinion</td>
 <td>Blue</td>
 </tr>
 <tr>
