@@ -67,4 +67,4 @@ Jessica Zhang
 
 <h2> Link for Communication </h2>
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
-To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">.
+To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
