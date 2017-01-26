@@ -1,5 +1,11 @@
 <h1> Team Name (with team logo) </h1>
 <h2> Project Synopsis </h2>
+Facebook believes that equitable and quality education is one of the most critical things for society to “get right.” One initiative in this arena is FB Techstart the mission of which is to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students. <br>
+<br>
+Currently, FB Techstart provides VR classroom kits, curriculum support, and peer role model connections to public schools.
+<br>
+We aim to find out how else can we best leverage FB to scalably pursue Techstart's mission. Might we be able to use FB's many tools (ie. Instagram, Whatsapp, Messenger) to support the teachers and kids Techstart is trying to reach? The ultimate goal is to create an implementation that can scale to millions of kids in need.
+
 
 <h2> Members </h2>
 <img src="alex_portrait.jpg" height="200"> <br>
