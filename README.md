@@ -2,7 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
-<!-Probably add the photos here...>
+<!--Probably add the photos here...-->
 
 <table><thead>
 <tr>
