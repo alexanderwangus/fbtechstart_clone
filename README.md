@@ -15,10 +15,10 @@
 </thead><tbody>
 <tr>
 <td>Charles Akin-David</td>
-<td>User testing, CAD, Statistical Data</td>
-<td>Very sensitive to work environment</td>
-<td>Programming</td>
-<td>Programming</td>
+<td>Data Engineering, Machine Learning, Programming</td>
+<td>Social, Presenter, Open-minded, Teacher</td>
+<td>Project Management, Prototyping</td>
+<td>Timing, Back-Loader</td>
 <td>Blue</td>
 </tr>
 <tr>
