@@ -56,4 +56,4 @@
 </tbody></table>
 
 <h2> Link for Communication </h2>
-<a href="https://fbtechstart.slack.com/">Slack
+<a href="https://fbtechstart.slack.com/" target="_blank">Slack</a>
