@@ -8,7 +8,7 @@ Charles Akin-David <br><br>
 Jorge Cueto <br><br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Alexander Wang <br><br>
-<img src="alex_portrait.jpg" height="200"> <br>
+<img src="serena_portrait.png" height="200"> <br>
 Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
