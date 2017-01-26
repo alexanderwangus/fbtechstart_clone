@@ -2,6 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
+<!--Probably add the photos here...-->
 
 Charles Akin-David
 Jorge Cueto
@@ -22,10 +23,10 @@ Jessica Zhang
 </thead><tbody>
 <tr>
 <td>Charles Akin-David</td>
-<td>User testing, CAD, Statistical Data</td>
-<td>Very sensitive to work environment</td>
-<td>Programming</td>
-<td>Programming</td>
+<td>Data Engineering, Machine Learning, Programming</td>
+<td>Social, Presenter, Open-minded, Teacher</td>
+<td>Project Management, Prototyping</td>
+<td>Timing, Back-Loader</td>
 <td>Blue</td>
 </tr>
 <tr>
@@ -46,20 +47,21 @@ Jessica Zhang
 </tr>
 <tr>
 <td>Serena Wong</td>
-<td>Machine Learning, Audio recording, Signal processing, Statistical analysis</td>
-<td>Strong opinions, very abstract thinker, Big PIcture guy</td>
-<td>Rapid prototyping, project management</td>
-<td>Sensitive to environments</td>
+<td>HCI, project management, user testing</td>
+<td>Agreeable, focused</td>
+<td>Creativity, programming</td>
+<td>Voicing opinion</td>
 <td>Blue</td>
 </tr>
 <tr>
 <td>Jessica Zhang</td>
-<td>Dynamics, Machining, Sales voice</td>
-<td>Mediator, Delegator, Fun, Divergent Thinker</td>
-<td>Management</td>
-<td>Ideas require peer approval, short term memory</td>
-<td>Blue</td>
+<td>HCI, Interface Design, Programming</td>
+<td>Agreeable, Hardworking</td>
+<td>Project Management, Creativity</td>
+<td>Often ambivalent, long transition time between tasks</td>
+<td>White</td>
 </tr>
 </tbody></table>
 
 <h2> Link for Communication </h2>
+<a href="https://fbtechstart.slack.com/" target="_blank">Slack</a>
