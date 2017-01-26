@@ -3,6 +3,13 @@
 
 <h2> Members </h2>
 
+Charles Akin-David
+Jorge Cueto
+Alexander Wang
+Serena Wong
+<img src="jess_portrait.png" style="width:500px;">
+Jessica Zhang
+
 <table><thead>
 <tr>
 <th>Member</th>
