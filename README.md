@@ -13,7 +13,7 @@ Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
 <br-->
-<img src="charles_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
+<img alt="Charles Akin-David" src="charles_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="jorge_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="alex_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="alex_portrait.jpg" height="200" style="float: left; width: 19%; margin-right: 1%; margin-bottom: 0.5em;">
