@@ -3,13 +3,13 @@
 
 <h2> Members </h2>
 <img src="charles_portrait.jpg" height="200"> <br>
-Charles Akin-David <br>
+Charles Akin-David <br><br>
 <img src="jorge_portrait.jpg" height="200"> <br>
-Jorge Cueto <br>
+Jorge Cueto <br><br>
 <img src="alex_portrait.jpg" height="200"> <br>
-Alexander Wang <br>
+Alexander Wang <br><br>
 <img src="alex_portrait.jpg" height="200"> <br>
-Serena Wong <br>
+Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
 
@@ -33,10 +33,10 @@ Jessica Zhang
 </tr>
 <tr>
 <td>Jorge Cueto</td>
-<td>Product Management, UX, HCI, Networking</td>
+<td>Product Management, UI/UX, HCI, Networking</td>
 <td>Hardworking, Compassionate, Creative </td>
 <td>Prototyping, Programming, Time Management</td>
-<td></td>
+<td>Context Switching</td>
 <td>Green</td>
 </tr>
 <tr>
