@@ -2,6 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
+<!-Probably add the photos here...>
 
 <table><thead>
 <tr>
@@ -56,4 +57,4 @@
 </tbody></table>
 
 <h2> Link for Communication </h2>
-<a target="_blank" href="https://fbtechstart.slack.com/">Slack</a>
+<a href="https://fbtechstart.slack.com/" target="_blank">Slack</a>
