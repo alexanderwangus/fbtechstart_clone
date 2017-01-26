@@ -2,7 +2,7 @@
 <h2> Project Synopsis </h2>
 
 <h2> Members </h2>
-<img src="charles_portrait.jpg" height="200"> <br>
+<img src="alex_portrait.jpg" height="200"> <br>
 Charles Akin-David <br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Jorge Cueto <br>
@@ -33,11 +33,11 @@ Jessica Zhang
 </tr>
 <tr>
 <td>Jorge Cueto</td>
-<td>Aesthetics and layout, building prototypes, AutoCAD</td>
-<td>Disciplined</td>
-<td>LaTeX, Planning Skills</td>
-<td>Painting, Programming, Interpersonal communication</td>
-<td>Blue</td>
+<td>Product Management, UX, HCI, Networking</td>
+<td>Hardworking, Compassionate, Creative </td>
+<td>Prototyping, Programming, Time Management</td>
+<td></td>
+<td>Green</td>
 </tr>
 <tr>
 <td>Alexander Wang</td>
@@ -67,9 +67,4 @@ Jessica Zhang
 
 <h2> Link for Communication </h2>
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
-To get in touch with us, please email any one of us. Our emails (@stanford.edu) are listed below: <br>
-aakindav <br>
-jcueto <br>
-aswang <br>
-serenaw <br>
-jzhang4 <br>
+To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
