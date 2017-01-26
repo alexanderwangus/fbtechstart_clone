@@ -13,10 +13,11 @@ Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
 <br-->
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="charles_portrait.jpg" height="200" style="width: 100%">Charles Akin-David</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="jorge_portrait.jpg" height="200" style="width: 100%">Jorge Cueto</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="alex_portrait.jpg" height="200" style="width: 100%">Alexander Wang</p>
-<p style="clear: both;">
+<img src="charles_portrait.jpg" height="200" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="jorge_portrait.jpg" height="200" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="alex_portrait.jpg" height="200" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="alex_portrait.jpg" height="200" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="jess_portrait.png" height="200" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <table><thead>
 <tr>
