@@ -12,7 +12,7 @@ Alexander Wang <br><br>
 Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
 Jessica Zhang
-
+<br>
 <table><thead>
 <tr>
 <th>Member</th>
@@ -36,7 +36,7 @@ Jessica Zhang
 <td>Product Management, UI/UX, HCI, Networking</td>
 <td>Hardworking, Compassionate, Creative </td>
 <td>Prototyping, Programming, Time Management</td>
-<td>Context Switching</td>
+<td>Context Switching, Data Engineering, AI, NLP</td>
 <td>Green</td>
 </tr>
 <tr>
