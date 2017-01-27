@@ -1,4 +1,4 @@
-<div><h1> Spark </h1><img src="Logo.png" height="50"></div><br>
+<h1><img src="Logo.png" height="50">Spark </h1><br>
 <h2> Project Synopsis </h2>
 Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
