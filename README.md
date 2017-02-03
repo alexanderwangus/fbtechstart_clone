@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1> Spark <img src="Logo.png"></h1>
+=======
+<div><h1> Spark </h1><img src="Logo.png" height="50"></div><br>
+>>>>>>> 81aab0e78e60d47efe7a398d5c63068b4185c2b2
 <h2> Project Synopsis </h2>
 Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
@@ -69,3 +73,5 @@ Jessica Zhang
 <h2> Link for Communication </h2>
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
+
+<a href="https://docs.google.com/a/stanford.edu/document/d/1pVnqp2E2vS7k7MA-WROx2Wm3VG4EMcy8piO5bv-cnjg/edit?usp=sharing" target="_blank">Meeting with Derrick (Oakland Teacher)</a>
