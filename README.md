@@ -86,4 +86,4 @@ We visited Sequoia High in order to talk to students of the Techstart program, a
 [Notes](https://drive.google.com/drive/folders/0B7-rumIIJLRJaFg1ck1HTVppc0E?usp=sharing)
 
 <h2> Brainstorming </h2>
-After collecting and debriefing our notes from our needfinding, we performed a brainstorming session. We made observations from our interviews, collected them into categories, drew links between categories, then derived needs from these clusters. [Images](https://drive.google.com/drive/folders/0B45cqVzuDnYdYkY1aFk4ZWNpams?usp=sharing)
+After collecting and debriefing our notes from our needfinding, we performed a brainstorming session. We made observations from our interviews, collected them into categories, drew links between categories, then derived needs from these clusters. [Images](https://drive.google.com/drive/folders/0B45cqVzuDnYdSlBPbmlXYlVMN1U?usp=sharing)
