@@ -71,4 +71,19 @@ Jessica Zhang
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
 
-<a href="https://docs.google.com/a/stanford.edu/document/d/1pVnqp2E2vS7k7MA-WROx2Wm3VG4EMcy8piO5bv-cnjg/edit?usp=sharing" target="_blank">Meeting with Derrick (Oakland Teacher)</a>
+<h2> Benchmarking Activity </h2>
+In preparation of our needfinding we researched various aspects of the issue of low income and diverse student participation in Computer Science. Here are some of the articles we read through: <br/>
+[On Google's Diversity efforts](http://fortune.com/google-diversity/)<br/>
+[Management Leadership for Tomorrow examines the confidence minority students have that they can be successful when considering jobs in various industries](http:://ml4t.org/insights/mlt-perspectives-white-paper/)<br/>
+[YesWeCode Resources](http://www.yeswecode.org/the_future_of_tech_diversity_and_inclusion_apply_to_the_yeswecode_coding_corps)<br/>
+[An involved contact shared this resource with us, saying that we "needed to be in Oakland"](https://medium.com/@cklshorall/2800-oakland-unified-students-enrolled-in-computer-science-in-2016-17-87277f99480b?source=linkShare-d030d4c339eb-1485839323)<br/>
+[An article on the efforts in a school we plan to visit](https://www.google.com/amp/www.cio.com/article/2442414/it-organization/sequoia-high-gets-wired.amp.html)<br/>
+
+<h2> Needfinding Activity </h2>
+Before any interviews, we compiled a [needfinding brainstorm sheet](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing)
+
+We visited Sequoia High in order to talk to students of the Techstart program, and to Charles Dodge, the teacher in charge. We also did a video chat interview with Derrick McMillen, a CS teacher at Coliseum College Prep HS in Oakland, which also has a Techstart program.
+[Notes](https://drive.google.com/drive/folders/0B7-rumIIJLRJaFg1ck1HTVppc0E?usp=sharing)
+
+<h2> Brainstorming </h2>
+After collecting and debriefing our notes from our needfinding, we performed a brainstorming session. We made observations from our interviews, collected them into categories, drew links between categories, then derived needs from these clusters. [Images](https://drive.google.com/drive/folders/0B45cqVzuDnYdYkY1aFk4ZWNpams?usp=sharing)
