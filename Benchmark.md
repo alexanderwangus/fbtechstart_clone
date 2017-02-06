@@ -11,8 +11,7 @@ In preparation for our needfinding, we carefully researched the topic of making 
 ###[YesWeCode Resources](http://www.yeswecode.org/the_future_of_tech_diversity_and_inclusion_apply_to_the_yeswecode_coding_corps)
 *YesWeCode accelerates access to training in high-demand technical and non-technical skills to prepare untapped talent to enter the tech-fueled economy. #YesWeCode is building a diverse pipeline of 'homegrown' tech talent to meet demand and boost local economies.*
 
-###[2800+ Oakland Unified students enrolled in Computer Science in 2016–17
-](https://medium.com/@cklshorall/2800-oakland-unified-students-enrolled-in-computer-science-in-2016-17-87277f99480b?source=linkShare-d030d4c339eb-1485839323)
+###[More than 2800 Oakland Unified students enrolled in Computer Science](https://medium.com/@cklshorall/2800-oakland-unified-students-enrolled-in-computer-science-in-2016-17-87277f99480b?source=linkShare-d030d4c339eb-1485839323)
 Derrick McMillen, a Techstart teacher at Oakland Unified School District, shared this article with us, emphasizing that we should learn about the work that Oakland is doing to make Computer Science education more accessible: *Oakland’s public schools are aware of lacking diversity in tech and are taking action. Instead of simply broadening the pipeline, the Oakland Unified School District has dug an entirely new trench, thus laying the groundwork to teach all students computer science — an agency-creating course necessary for access, sustainability, and choice in the 21st century. This growth is due to collaboration with industry (Intel, Salesforce, SAP), nonprofit, and government entities, and a district-wide partnership with Code.org.*
 
 ###[Sequoia High Gets Wired](https://www.google.com/amp/www.cio.com/article/2442414/it-organization/sequoia-high-gets-wired.amp.html)
