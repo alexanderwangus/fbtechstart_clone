@@ -68,11 +68,11 @@ To get in touch with our group, please email <a href="fbtechstart@googlegroups.c
 
 <h3> Team Documents </h3>
 
-**Our Google Drive**, where all of our documents reside, is available [here](https://drive.google.com/open?id=0B45cqVzuDnYdN19jclVoazF1cXc).
+* **Our Google Drive**, where all of our documents reside, is available [here](https://drive.google.com/open?id=0B45cqVzuDnYdN19jclVoazF1cXc).
 
-**General meeting notes** are available [here](https://drive.google.com/open?id=0B45cqVzuDnYdb1cxTlBqVXF2WXM).
+* **General meeting notes** are available [here](https://drive.google.com/open?id=0B45cqVzuDnYdb1cxTlBqVXF2WXM).
 
-**Our photos** are available [here](https://drive.google.com/drive/u/1/folders/0B45cqVzuDnYdYkY1aFk4ZWNpams).
+* **Our photos** are available [here](https://drive.google.com/drive/u/1/folders/0B45cqVzuDnYdYkY1aFk4ZWNpams).
 
 <h2> Benchmarking </h2>
 In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Visit [this page](https://github.com/cs210/FB-TechStart-1/edit/master/Benchmark.md) to see our benchmarking work.
