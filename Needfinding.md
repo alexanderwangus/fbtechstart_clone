@@ -6,7 +6,8 @@ Before any interviews, we compiled a [needfinding brainstorm document](https://d
 We visited Sequoia High in order to talk to Techstart students and Cameron Dodge, the teacher in charge of Sequoia's Techstart program. At Sequoia, we interviewed 12 different students in total, taking detailed notes about each interview. We also did a video chat interview with Derrick McMillen, a CS teacher at Coliseum College Prep High School in Oakland, which also has a Techstart program.
 * [Sequoia Interview Notes](https://drive.google.com/open?id=0B7-rumIIJLRJbTl2M3N0bXZIVE0)
 * [Coliseum Interview Notes](https://drive.google.com/open?id=0B45cqVzuDnYdZ3FBd0ZFSE1qOGM)
-
+<h3>Clustering Observations to Identify Needs</h3>
+We clustered what we observed, heard, and noted during our interviews into groups in order to help us define needs for the Techstart program. You can view the needs we identified [here](https://docs.google.com/document/d/1z1G-00bip9J17MmZzUHcNbuk2TNSwjPa1JTgBmCbjXE/edit).
 <h3>Coming Up</h3>
 We're also planning needfinding interviews with the following contacts:
 * Aga, Facebook Program Manager for Techstart
