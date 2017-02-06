@@ -71,4 +71,4 @@ In preparation for our needfinding, we carefully researched the topic of making 
 To learn about the Computer Science education space, we spoke to students and teachers at Techstart high schools. Visit [this page](https://github.com/cs210/FB-TechStart-1/blob/master/Needfinding.md) to see our needfinding work.
 
 <h2> Brainstorming </h2>
-After collecting and debriefing our notes from our needfinding, we performed a brainstorming session to come up with solutions. Visit [this page]( to see our solution brainstorming work
+After collecting and debriefing our notes from our needfinding, we performed a brainstorming session to come up with solutions. Visit [this page](https://github.com/cs210/FB-TechStart-1/blob/master/Brainstorming.md) to see our solution brainstorming work.
