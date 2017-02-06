@@ -3,9 +3,8 @@
 <h2> Project Synopsis </h2>
 We believe that a quality education is critical in improving students’ lives. **We want to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.** Techstart has already begun working to address the issues faced by many students by providing VR Classroom Kits, curriculum support, and peer role model connections. We hope to further leverage Facebook technologies to create a scalable product that will help bring computer science education to millions of students and to give them skills that will help carry them through their entire lives.
 <h2> Members </h2>
-<img src="charles_portrait.jpg" height="200"> <br> 
-Charles Akin-David <br><br>
-<img src="jorge_portrait.jpg" height="200"> <br>
+<h2> <img src="charles_portrait.jpg" height="200"> 
+<img src="jorge_portrait.jpg" height="200"></h2> <br>
 Jorge Cueto <br><br>
 <img src="alex_portrait.jpg" height="200"> <br>
 Alexander Wang <br><br>
