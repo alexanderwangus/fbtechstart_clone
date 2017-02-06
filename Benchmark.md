@@ -1,6 +1,6 @@
 <div><h1> Spark <img src="Logo.png" height="50"></h1></div>
 <h2>Benchmarking Activity</h2>
-In preparation for our needfinding, we researched various aspects of the making Computer Science accessible to low-income students and students from underrepresented backgrounds. Here are some of the articles we read and discussed: <br/>
+In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Here are some of the articles we read and discussed: <br/>
 
 ###[On Google's Diversity efforts](http://fortune.com/google-diversity/)
 *Why now? There is perhaps a dollop of public relations in the effort and certainly an element of doing the right thing. (Might the company’s oft-mocked motto of “Don’t be evil” apply?) Silicon Valley in general has been harshly criticized in recent years for being overwhelmingly male and largely devoid of non-Asian people of color. But there is another potent factor in play too: A growing realization inside the company’s Mountain View, Calif., headquarters that not embracing diversity might impede Google’s ability to keep growing. How can it learn to better serve the billions of people on the planet for whom its search has not thus far been optimized?*
