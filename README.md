@@ -65,6 +65,7 @@ We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank"
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
 
 <h2> Benchmarking Activity </h2>
+In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Visit [this page](https://github.com/cs210/FB-TechStart-1/edit/master/Benchmark.md) to see our benchmarking work.
 
 <h2> Needfinding Activity </h2>
 Before any interviews, we compiled a [needfinding brainstorm sheet](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing)
