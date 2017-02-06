@@ -64,6 +64,9 @@ Serena Wong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
 
+<h2> General Meeting Notes </h2>
+General meeting notes are available [here](https://drive.google.com/open?id=0B45cqVzuDnYdb1cxTlBqVXF2WXM).
+
 <h2> Benchmarking </h2>
 In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Visit [this page](https://github.com/cs210/FB-TechStart-1/edit/master/Benchmark.md) to see our benchmarking work.
 
