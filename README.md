@@ -64,11 +64,11 @@ Serena Wong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
 
-<h2> Benchmarking Activity </h2>
+<h2> Benchmarking </h2>
 In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Visit [this page](https://github.com/cs210/FB-TechStart-1/edit/master/Benchmark.md) to see our benchmarking work.
 
-<h2> Needfinding Activity </h2>
+<h2> Needfinding </h2>
 To learn about the Computer Science education space, we spoke to students and teachers at Techstart high schools. Visit [this page](https://github.com/cs210/FB-TechStart-1/blob/master/Needfinding.md) to see our needfinding work.
 
 <h2> Brainstorming </h2>
-After collecting and debriefing our notes from our needfinding, we performed a brainstorming session. We made observations from our interviews, collected them into categories, drew links between categories, then derived needs from these clusters. [Images](https://drive.google.com/drive/folders/0B45cqVzuDnYdSlBPbmlXYlVMN1U?usp=sharing)
+After collecting and debriefing our notes from our needfinding, we performed a brainstorming session to come up with solutions. Visit [this page]( to see our solution brainstorming work
