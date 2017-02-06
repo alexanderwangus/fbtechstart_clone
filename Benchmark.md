@@ -1,5 +1,5 @@
 <div><h1> Spark <img src="Logo.png" height="50"></h1></div>
-<h2>Benchmarking Activity</h2>
+<h2>Benchmarking</h2>
 In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Here are some of the articles we read and discussed: <br/>
 
 ###[On Google's Diversity efforts](http://fortune.com/google-diversity/)
