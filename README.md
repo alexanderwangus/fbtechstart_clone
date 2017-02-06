@@ -3,12 +3,12 @@
 <h2> Project Synopsis </h2>
 Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
-<div><img src="charles_portrait.jpg" height="200"> <br>
+<img src="charles_portrait.jpg" float="left" position="relative" height="200"> <br>
 Charles Akin-David <br><br>
 <img src="jorge_portrait.jpg" height="200"> <br>
 Jorge Cueto <br><br>
 <img src="alex_portrait.jpg" height="200"> <br>
-Alexander Wang <br><br></div>
+Alexander Wang <br><br>
 <img src="serena_portrait.png" height="200"> <br>
 Serena Wong <br><br>
 <img src="jess_portrait.png" height="200"> <br>
