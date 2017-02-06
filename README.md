@@ -3,7 +3,7 @@
 <h2> Project Synopsis </h2>
 Our project aims to leverage computer science to spark the imagination, instill self-belief and unlock future opportunities for students.
 <h2> Members </h2>
-<img src="charles_portrait.jpg" float="left" position="relative" height="200"> <br>
+<img src="charles_portrait.jpg" height="200"> | 
 Charles Akin-David <br><br>
 <img src="jorge_portrait.jpg" height="200"> <br>
 Jorge Cueto <br><br>
