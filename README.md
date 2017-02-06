@@ -68,10 +68,7 @@ To get in touch with our group, please email <a href="fbtechstart@googlegroups.c
 In preparation for our needfinding, we carefully researched the topic of making Computer Science accessible to low-income students and students from underrepresented backgrounds. Visit [this page](https://github.com/cs210/FB-TechStart-1/edit/master/Benchmark.md) to see our benchmarking work.
 
 <h2> Needfinding Activity </h2>
-Before any interviews, we compiled a [needfinding brainstorm sheet](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing)
-
-We visited Sequoia High in order to talk to students of the Techstart program, and to Cameron Dodge, the teacher in charge. We also did a video chat interview with Derrick McMillen, a CS teacher at Coliseum College Prep HS in Oakland, which also has a Techstart program.
-[Notes](https://drive.google.com/drive/folders/0B7-rumIIJLRJaFg1ck1HTVppc0E?usp=sharing)
+To learn about the Computer Science education space, we spoke to students and teachers at Techstart high schools. Visit [this page](https://github.com/cs210/FB-TechStart-1/blob/master/Needfinding.md) to see our needfinding work.
 
 <h2> Brainstorming </h2>
 After collecting and debriefing our notes from our needfinding, we performed a brainstorming session. We made observations from our interviews, collected them into categories, drew links between categories, then derived needs from these clusters. [Images](https://drive.google.com/drive/folders/0B45cqVzuDnYdSlBPbmlXYlVMN1U?usp=sharing)
