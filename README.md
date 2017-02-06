@@ -59,12 +59,15 @@ Serena Wong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <td>White</td>
 </tr>
 </tbody></table>
+<h2> Logistical Information </h2>
 
-<h2> Links for Communication </h2>
+<h3> Links for Communication </h3>
+
 We have chosen to use a <a href="https://fbtechstart.slack.com/" target="_blank">Slack Channel</a> to communicate with each other. <br>
 To get in touch with our group, please email <a href="fbtechstart@googlegroups.com" target="_blank">fbtechstart@googlegroups.com</a>.
 
-<h2> General Meeting Notes </h2>
+<h3> General Meeting Notes </h3>
+
 General meeting notes are available [here](https://drive.google.com/open?id=0B45cqVzuDnYdb1cxTlBqVXF2WXM).
 
 <h2> Benchmarking </h2>
