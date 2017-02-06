@@ -4,4 +4,4 @@ After collecting and debriefing our notes from our needfinding and identifying a
 * [List of solution ideas, grouped by theme](https://docs.google.com/document/d/1fwi4gfvf3HE-zk3X5iGT-QjhADXLliWgVjknqD6h_a4/edit#heading=h.52tyerbr9r6a)
 * [Photos of our brainstorming session and post-it note clusters](https://drive.google.com/drive/u/1/folders/0B45cqVzuDnYdVDNta0ZuY0dObWs)
 <br>
-<div><img src="IMG_20170205_152901.jpg" height=300>&nbsp;&nbsp;&nbsp;&nbsp;<img src="IMG_20170205_154545.jpg" height=300></div>
+<div><br><img src="IMG_20170205_152901.jpg" height=300>&nbsp;&nbsp;&nbsp;&nbsp;<img src="IMG_20170205_154545.jpg" height=300></div>
