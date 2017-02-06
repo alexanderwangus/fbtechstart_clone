@@ -6,7 +6,7 @@ We believe that a quality education is critical in improving students’ lives. 
 <div><img src="charles_portrait.jpg" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jorge_portrait.jpg" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="alex_portrait.jpg" height="200"></div>
 Charles Akin-David &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jorge Cueto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexander Wang <br><br>
 <div><img src="serena_portrait.png" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jess_portrait.png" height="200"></div>
-Serena Wong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jessica Zhang<br><br>
+Serena Wong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jessica Zhang<br><br>
 
 <table><thead>
 <tr>
