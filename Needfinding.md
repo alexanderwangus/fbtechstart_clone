@@ -16,10 +16,10 @@ You can view images of our observations clustered into groups [here](https://dri
 
 <h3>Coming Up</h3>
 We're also planning needfinding interviews with the following contacts:
-* Aga, Facebook Program Manager for Techstart
-* StreetCode Academy leadership team
-* CS + Social Good student organizers
-* Students who participated in Facebook VR camp
-* VR camp organizer
-* Hidden Genius Project organizers
+* Aga, Facebook Program Manager for Techstart [Completed]
+* StreetCode Academy leadership team [Invitation Sent]
+* CS + Social Good student organizers [Scheduled for 2/14]
+* Students who participated in Facebook VR camp [TBD]
+* VR camp organizer [TBD]
+* Hidden Genius Project organizers [TBD]
  
