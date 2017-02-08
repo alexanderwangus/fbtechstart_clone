@@ -1,7 +1,25 @@
 <div><h1> Spark <img src="Logo.png" height="50"></h1></div>
 <h2>Needfinding </h2>
 <h3>Preparation</h3>
-Before any interviews, we compiled a [needfinding brainstorm document](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing), where we outlined questions that we would ask students and teachers at high schools that are part of the Techstart program. The document also included some general ideas that we wanted to explore, as well as a list of additional contacts in the Computer Science education space that we could reach out to. 
+Before any interviews, we compiled a [detailed needfinding brainstorm document](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing), where we outlined questions that we would ask students and teachers at high schools that are part of the Techstart program. The document also included some general ideas that we wanted to explore, as well as a list of additional contacts in the Computer Science education space that we could reach out to. 
+
+**Some questions we had for teachers:**
+* Do you need to be enrolled in a CS class to be in Techstart, or if the school has a CS class and is a Techstart participant, anyone can be in Techstart?
+* What is the biggest barrier to using the Oculus equipment?
+* What is the biggest challenge about working with students in the Techstart program?
+* How many students start doing Techstart and stay in the program vs. drop out?
+* Is there any incentive structure?
+* What’s the interest in Techstart? (do you have enough resources for everyone who’s interested?)
+* How often does Techstart meet?
+* Roughly how many students per class?
+* How did you create/what was your thought process being creating your curriculum?
+* How successful has your curriculum been?
+* Tell us about a day in TechStart?
+* What is your day-to-day like?
+* What percentage of students in the Techstart program are low-income?
+* How do you assess success for this program?
+* Class sizes at school?
+
 <h3>Interviews</h3>
 We visited Sequoia High in order to talk to Techstart students and Cameron Dodge, the teacher in charge of Sequoia's Techstart program. At Sequoia, we interviewed 12 different students in total, taking detailed notes about each interview. We also did a video chat interview with Derrick McMillen, a CS teacher at Coliseum College Prep High School in Oakland, which also has a Techstart program.
 * [Sequoia Interview Notes](https://drive.google.com/open?id=0B7-rumIIJLRJbTl2M3N0bXZIVE0)
