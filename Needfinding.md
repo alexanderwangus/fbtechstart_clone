@@ -9,16 +9,33 @@ Before any interviews, we compiled a [detailed needfinding brainstorm document](
 * What is the biggest challenge about working with students in the Techstart program?
 * How many students start doing Techstart and stay in the program vs. drop out?
 * Is there any incentive structure?
-* What’s the interest in Techstart? (do you have enough resources for everyone who’s interested?)
+* How deep is the interest in Techstart? (do you have enough resources for everyone who’s interested?)
 * How often does Techstart meet?
 * Roughly how many students per class?
-* How did you create/what was your thought process being creating your curriculum?
+* How did you create (or what was your thought process while creating) your curriculum?
 * How successful has your curriculum been?
-* Tell us about a day in TechStart?
+* Tell us about a day in TechStart.
 * What is your day-to-day like?
 * What percentage of students in the Techstart program are low-income?
 * How do you assess success for this program?
-* Class sizes at school?
+* What are the class sizes at school?
+
+**Some questions we had for students:**
+* What are your plans for after high school?
+* Do you want to go to college?
+* How much free time do you have?
+* How do you spend your free time?
+* What do you wish you had more time for?
+* What extracurriculars do you participate in?
+* What other classes are you in?
+* What are your favorite other classes?
+* Are you planning to continue with CS? (Java Class)
+* What is your perception of CS?
+* Is CS a supported part of the status quo or stigmatized (is it cool or lame)?
+* Does CS seem accessible? Why?
+* What CS initiatives already exist or have existed in your school? Were they successful? 
+* Personally, how do you like the CS initiatives at your school, if any?
+
 
 <h3>Interviews</h3>
 We visited Sequoia High in order to talk to Techstart students and Cameron Dodge, the teacher in charge of Sequoia's Techstart program. At Sequoia, we interviewed 12 different students in total, taking detailed notes about each interview. We also did a video chat interview with Derrick McMillen, a CS teacher at Coliseum College Prep High School in Oakland, which also has a Techstart program.
