@@ -85,6 +85,6 @@ After collecting and debriefing our notes from our needfinding, we performed a b
 
 <h2> Liaison Meetings </h2>
 <h3> 2/7/17 Meeting </h3> 
-The slides for our liaison meeting can be found [here](https://docs.google.com/presentation/d/1iPvjMo1-TZt_ek2VIo2v-PZWDvNXj6RrQm59qbdZbG4/edit?usp=sharing).
+The slides for our liaison meeting can be found [here](https://docs.google.com/presentation/d/1iPvjMo1-TZt_ek2VIo2v-PZWDvNXj6RrQm59qbdZbG4/edit?usp=sharing).<br>
 The notes we took during our discussion can be found [here](https://docs.google.com/document/d/1bdd-Y5ggXoHBT6o8Z1bxwMYd4JGyevRzRvlFBU2XRWE/edit).
 
