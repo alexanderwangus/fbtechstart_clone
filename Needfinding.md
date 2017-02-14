@@ -3,7 +3,7 @@
 <h3>Preparation</h3>
 Before any interviews, we compiled a [detailed needfinding brainstorm document](https://docs.google.com/document/d/1mj2fpM7I16-1uJ0Er_FN78Y5MPBIf1A6aOEU844sZ30/edit?usp=sharing), where we outlined questions that we would ask students and teachers at high schools that are part of the Techstart program. The document also included some general ideas that we wanted to explore, as well as a list of additional contacts in the Computer Science education space that we could reach out to. 
 
-**Some questions we had for teachers:**
+**Questions to ask teachers:**
 * Do you need to be enrolled in a CS class to be in Techstart, or if the school has a CS class and is a Techstart participant, anyone can be in Techstart?
 * What is the biggest barrier to using the Oculus equipment?
 * What is the biggest challenge about working with students in the Techstart program?
@@ -20,7 +20,7 @@ Before any interviews, we compiled a [detailed needfinding brainstorm document](
 * How do you assess success for this program?
 * What are the class sizes at school?
 
-**Some questions we had for students:**
+**Questions to ask students:**
 * What are your plans for after high school?
 * Do you want to go to college?
 * How much free time do you have?
