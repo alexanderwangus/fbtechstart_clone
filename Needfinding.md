@@ -50,7 +50,9 @@ You can view images of our observations clustered into groups [here](https://dri
 <div><img src="IMG_3001.JPG" height=300>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="IMG_20170204_165922.jpg" height=300></div>
 
 <h3>Teens Exploring Technology</h3>
-Teens Exploring Technology is a nonprofit organization that aims to inspire young, at-risk Black and Brown boys to become technology entrepreneurs. These boys are at the highest risk of dropping out of high school and being incarcerated. To learn about the ways in which Teens Exploring Technology inspires underrepresented minority students to get excited about technology, we met with founder and CEO Mark Orozco. You can view the notes from our meeting with Mark [here](https://docs.google.com/document/d/12nAVrieSxXo4Jxk-s5gQ1m0145YLobUcpWdGWFjA3D4/edit#heading=h.3lh080nlcrt4).
+Teens Exploring Technology is a nonprofit organization that aims to inspire young, at-risk Black and Brown boys to become technology entrepreneurs. These boys are at the highest risk of dropping out of high school and being incarcerated. To learn about the ways in which Teens Exploring Technology inspires underrepresented minority students to get excited about technology, we met with founder and CEO Mark Orozco. 
+
+You can view the notes from our meeting with Mark [here](https://docs.google.com/document/d/12nAVrieSxXo4Jxk-s5gQ1m0145YLobUcpWdGWFjA3D4/edit#heading=h.3lh080nlcrt4).
 
 <h3>Coming Up</h3>
 We're also planning needfinding interviews with the following contacts:
