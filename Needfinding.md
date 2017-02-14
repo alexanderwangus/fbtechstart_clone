@@ -49,6 +49,12 @@ You can view images of our observations clustered into groups [here](https://dri
 
 <div><img src="IMG_3001.JPG" height=300>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="IMG_20170204_165922.jpg" height=300></div>
 
+<h3>Tech Camps</h3>
+<h4>Teens Exploring Technology (TXT)</h4>
+We met with Mark Orozco, founder of TXT.
+
+You can view the notes from our meeting with Mark [here](https://docs.google.com/document/d/12nAVrieSxXo4Jxk-s5gQ1m0145YLobUcpWdGWFjA3D4/edit#heading=h.3lh080nlcrt4).
+
 <h3>Coming Up</h3>
 We're also planning needfinding interviews with the following contacts:
 * Aga, Facebook Program Manager for Techstart [Completed]
