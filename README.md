@@ -83,8 +83,12 @@ To learn about the Computer Science education space, we spoke to students and te
 <h2> Brainstorming </h2>
 After collecting and debriefing our notes from our needfinding, we performed a brainstorming session to come up with solutions. Visit [this page](https://github.com/cs210/FB-TechStart-1/blob/master/Brainstorming.md) to see our solution brainstorming work.
 
-<h2> Liaison Meetings </h2>
+<h2> Liaison and Small Group Meetings </h2>
 <h3> 2/7/17 Meeting </h3> 
 The slides for our liaison meeting can be found [here](https://docs.google.com/presentation/d/1iPvjMo1-TZt_ek2VIo2v-PZWDvNXj6RrQm59qbdZbG4/edit?usp=sharing).<br>
 The notes we took during our discussion can be found [here](https://docs.google.com/document/d/1bdd-Y5ggXoHBT6o8Z1bxwMYd4JGyevRzRvlFBU2XRWE/edit).
-
+<h3> 2/14/17 Meeting </h3> 
+The slides for our small group meeting can be found [here](https://docs.google.com/presentation/d/196Ikdv0oG3uDgmGY4MhNRWKb94j2U1LqDkIwrriGBNg/edit?usp=sharing).<br>
+The notes we took during our discussion can be found [here](https://docs.google.com/document/d/1VA_Niy-4Y2F3WF6jv90ewu1vWGTjoyeYHYzG5W8d2j0/edit?usp=sharing).
+<h3> 2/21/17 Meeting </h3> 
+The slides for our small group meeting can be found [here](https://docs.google.com/presentation/d/1ymczJIZ49okmY0fVe7p9juKXSqnGdItVg_5w1Jh2LZw/edit?usp=sharing).<br>
