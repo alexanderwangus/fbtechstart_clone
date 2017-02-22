@@ -4,7 +4,7 @@ Spark has chosen to attend [The Asian Conference on Education & International De
 
 <h3>Conference Details</h3>
 * Location: Kobe, Japan
-* Dates: 3/23-3/29
+* Dates: 3/26-3/29
 * Conference Cost (Undergraduate): 15,000 JPY, $132 per person
 
 <h3>Travel Details</h3>
